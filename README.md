@@ -1,5 +1,5 @@
 # Examen_Ordinaria_EDA2_enero_mario_perez
-EJERCICIO 1
+PREGUNTA 1
 
 1.1 Creación (0,5 puntos)
  
